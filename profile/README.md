@@ -8,4 +8,6 @@ I'm going to publish all plugins that am gonna make. Of course i have my own lif
 
 Why i want to make it free and opensource? Because there's a need for free good quality plugins on the market (::
 
-There will be soon a page for searching the plugins. For now please look at repositories.
+
+Available plugins:
+- WelcomeOnJoin - Greets players on join by using chat messages, titles, and even sound effects!
